@@ -1,0 +1,5 @@
+{
+  "CELL_SIZE": 3,
+  "OCC_THRESH": 0.5,
+  "ERODE_RADIUS": 1
+}

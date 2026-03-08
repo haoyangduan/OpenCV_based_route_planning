@@ -1,0 +1,11 @@
+{
+  "ROI": [
+    732,
+    368,
+    334,
+    611
+  ],
+  "GRAY_THRESH": 161,
+  "INVERT": 0,
+  "MORPH_CLOSE_K": 2
+}
